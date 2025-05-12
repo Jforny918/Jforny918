@@ -2,7 +2,7 @@
 
 ###
 
-- 👩‍💻 Desenvolvedora júnior em formação com foco em **Python, C e C++**
+- 👩‍💻 Desenvolvedora júnior em formação com foco em **Python**
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🚀 Em busca de oportunidades para ganhar **experiência prática**
 - 💡 Apaixonada por **idiomas** e aprendizado contínuo com **cursos online**
