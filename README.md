@@ -2,7 +2,7 @@
 
 ###
 
-- 👩‍💻 Desenvolvedora júnior em formação com foco em **Python**
+- 👩‍💻 Desenvolvedora júnior em formação com foco em **Python, C e C++**
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🚀 Em busca de oportunidades para ganhar **experiência prática**
 - 💡 Apaixonada por **idiomas** e aprendizado contínuo com **cursos online**
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
 ###
@@ -35,5 +36,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
