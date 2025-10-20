@@ -2,10 +2,11 @@
 
 ###
 
-- 👩‍💻 Desenvolvedora júnior em formação com foco em **Python**
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🚀 Em busca de oportunidades para ganhar **experiência prática**
-- 💡 Apaixonada por **idiomas** e aprendizado contínuo com **cursos online**
+- 👩‍💻 Desenvolvedora júnior em formação com foco em **Python**, SQL, C, HTML e CSS  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (cursando)  
+- 🚀 Em busca da primeira oportunidade na área de TI para aplicar conhecimentos e crescer profissionalmente  
+- 💡 Apaixonada por idiomas, com inglês avançado, e aprendizado contínuo por meio de cursos online  
+- 📚 Experiência prática em projetos web, utilizando PHP, JavaScript e metodologias ágeis como Scrum e Kanban  
 
 ###
 
@@ -21,21 +22,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/j%C3%BAlia-forny-b810182ab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/j%C3%BAlia-forny-b810182ab/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
 
 ###
 
+<p align="center">
+  <i>“Apaixonada por tecnologia, idiomas e aprendizado constante. Estou entusiasmada para iniciar minha carreira profissional e contribuir com projetos inovadores.”</i>
+</p>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 
