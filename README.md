@@ -2,11 +2,10 @@
 
 ###
 
-- 👩‍💻 Desenvolvedora júnior em formação com foco em **Python**, SQL, C, HTML e CSS  
+- 👩‍💻 Desenvolvedora júnior em formação 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (cursando)  
 - 🚀 Em busca da primeira oportunidade na área de TI para aplicar conhecimentos e crescer profissionalmente  
-- 💡 Apaixonada por idiomas, com inglês avançado, e aprendizado contínuo por meio de cursos online  
-- 📚 Experiência prática em projetos web, utilizando PHP, JavaScript e metodologias ágeis como Scrum e Kanban  
+- 💡 Apaixonada por idiomas, com inglês avançado, e aprendizado contínuo por meio de cursos online    
 
 ###
 
@@ -41,8 +40,6 @@
 </p>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
