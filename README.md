@@ -14,9 +14,9 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou desenvolvedora fullstack com experiência em múltiplas linguagens e paradigmas. Tenho facilidade para transitar entre backend e frontend, construindo soluções completas com foco em qualidade, clareza de código e boas práticas de desenvolvimento.
+Desenvolvedora Fullstack em início de carreira, com foco em construir aplicações completas do backend ao frontend. Trabalho com Python, C#, Angular e bancos de dados, sempre buscando boas práticas e código limpo.
 
-Gosto de encarar problemas complexos, aprender novas tecnologias e entregar software que realmente funciona. Atualmente em busca da minha primeira oportunidade profissional para colocar em prática tudo que venho construindo.
+Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em busca da minha primeira oportunidade como estagiária ou desenvolvedora júnior para contribuir, aprender e crescer profissionalmente.
 
 - 🌍 Natal, Rio Grande do Norte — Brasil
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
